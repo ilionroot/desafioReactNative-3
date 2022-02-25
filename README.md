@@ -21,7 +21,7 @@ Assinatura
 
 _______________________________________________________________________________________________________________
 
-2 - O candidato deverá criar uma branch e solicitar um pull request par `main`
+2 - O candidato deverá criar uma branch e solicitar um pull request para a `main`
 
 3 - O Tempo para conclusão do Desafio é de 7 dias, a partir da confirmação do envio do e-mail
 
