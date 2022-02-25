@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 2 - O candidato deverá criar uma branch e solicitar um pull request par `main`
 
-3 - Data máxima de entrega: 25/02/2022
+3 - O Tempo para conclusão do Desafio é de 7 dias, a partir da confirmação do envio do e-mail
 
 4 - O Projeto deverá ser feito em React Native - TS. Obs. Pode usar Expo
 
